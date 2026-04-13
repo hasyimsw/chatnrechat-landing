@@ -30,8 +30,8 @@ function Technology() {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-16 items-center">
           {/* LEFT IMAGE */}
           <motion.div
-            initial={{ opacity: 0, x: -60 }}
-            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: -60 }}
+            whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
             className="flex justify-center"
@@ -45,8 +45,8 @@ function Technology() {
 
           {/* RIGHT CONTENT */}
           <motion.div
-            initial={{ opacity: 0, x: 60 }}
-            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, y: 60 }}
+            whileInView={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6 }}
             viewport={{ once: true }}
           >

@@ -78,8 +78,8 @@ function Hero() {
         {/* RIGHT IMAGE */}
         <motion.div
           className="flex-1"
-          initial={{ opacity: 0, x: 60 }}
-          animate={{ opacity: 1, x: 0 }}
+          initial={{ opacity: 0, y: 60 }}
+          animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.7 }}
         >
           <img

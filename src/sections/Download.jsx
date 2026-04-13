@@ -21,7 +21,7 @@ function Download() {
             {/* LEFT CONTENT */}
             <div className="text-white">
               {/* Subtitle */}
-              <p className="text-xs uppercase tracking-widest mb-5">
+              <p className="text-xs uppercase tracking-widest mb-5 pt-4">
                 Download Aplikasinya
               </p>
 
@@ -61,8 +61,8 @@ function Download() {
             {/* RIGHT IMAGE */}
             <motion.div
               className="flex justify-center md:justify-end"
-              initial={{ opacity: 0, x: 60 }}
-              whileInView={{ opacity: 1, x: 0 }}
+              initial={{ opacity: 0, y: 60 }}
+              whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.6 }}
               viewport={{ once: true }}
             >
