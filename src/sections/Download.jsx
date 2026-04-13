@@ -21,7 +21,7 @@ function Download() {
             {/* LEFT CONTENT */}
             <div className="text-white">
               {/* Subtitle */}
-              <p className="text-xs uppercase tracking-widest mb-5 pt-4">
+              <p className="text-xs uppercase tracking-widest mb-5 pt-8">
                 Download Aplikasinya
               </p>
 
