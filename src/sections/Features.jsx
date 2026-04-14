@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
-import feature1 from "../assets/feature1.png";
-import feature2 from "../assets/feature2.png";
-import feature3 from "../assets/feature3.png";
+import feature1 from "../assets/feature1.webp";
+import feature2 from "../assets/feature2.webp";
+import feature3 from "../assets/feature3.webp";
 
 function Features() {
   const features = [

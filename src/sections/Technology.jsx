@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import technologyImage from "../assets/technologyImage.png";
+import technologyImage from "../assets/technologyImage.webp";
 
 function Technology() {
   const techItems = [

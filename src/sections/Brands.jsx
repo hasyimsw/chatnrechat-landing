@@ -1,10 +1,10 @@
 import { motion } from "framer-motion";
 
-import cnn from "../assets/cnn.png";
-import tirto from "../assets/tirto.png";
-import forbes from "../assets/forbes.png";
-import google from "../assets/google.png";
-import nytimes from "../assets/nytimes.png";
+import cnn from "../assets/cnn.webp";
+import tirto from "../assets/tirto.webp";
+import forbes from "../assets/forbes.webp";
+import google from "../assets/google.webp";
+import nytimes from "../assets/nytimes.webp";
 
 function Brands() {
   const logos = [

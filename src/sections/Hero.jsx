@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import heroImage from "../assets/heroImage.png";
+import heroImage from "../assets/heroImage.webp";
 import { BsDownload, BsPerson } from "react-icons/bs";
 import { IoArrowForwardCircleOutline } from "react-icons/io5";
 

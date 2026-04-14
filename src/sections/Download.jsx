@@ -1,8 +1,8 @@
 import { motion } from "framer-motion";
 
-import downloadImage from "../assets/downloadImage.png";
-import appStore from "../assets/appstore.png";
-import playStore from "../assets/playstore.png";
+import downloadImage from "../assets/downloadImage.webp";
+import appStore from "../assets/appstore.webp";
+import playStore from "../assets/playstore.webp";
 
 function Download() {
   return (

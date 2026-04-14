@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { FaBars, FaTimes } from "react-icons/fa";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo.webp";
 
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

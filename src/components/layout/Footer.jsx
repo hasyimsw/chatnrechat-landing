@@ -1,5 +1,5 @@
 import { FaInstagram, FaFacebookF, FaTwitter } from "react-icons/fa";
-import logo from "../../assets/logo.png";
+import logo from "../../assets/logo.webp";
 
 function Footer() {
   const sitemapLinks = [
